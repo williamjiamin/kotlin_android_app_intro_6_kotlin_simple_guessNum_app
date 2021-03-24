@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessMyNum</string>
+    <string name="reset_game_text">这盘不想玩了，再开一局</string>
+    <string name="str_up">up</string>
+    <string name="str_down">down</string>
+    <string name="str_bingo">bingo</string>
+    <string name="str_question">你心中想的数字是不是【%d】</string>
+    <string name="str_success">猜对啦，你心中想的数字是【%d】</string>
+</resources>
